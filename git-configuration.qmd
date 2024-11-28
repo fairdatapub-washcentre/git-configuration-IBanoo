@@ -13,7 +13,7 @@ editor: visual
 
 ```{r}
 library(usethis)
-use_git_config(user.name = "Your Name", user.email = "Your Email")
+use_git_config(user.name = "Ibanoo", user.email = "banooi@ukzn.ac.za")
 ```
 
 ## Commit and push your changes
